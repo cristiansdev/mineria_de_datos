@@ -1,0 +1,7 @@
+# Omitir entorno virtual
+env/
+
+# Omitir archivos generados al construir o empaquetar
+build/
+mineria_data_cleaning.egg-info/
+
